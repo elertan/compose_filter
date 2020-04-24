@@ -1,0 +1,27 @@
+{
+  "name": "compose_filter",
+  "version": "0.1.0",
+  "description": "Composition of filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elertan/compose_filter.git"
+  },
+  "keywords": [
+    "compose",
+    "filter",
+    "typescript"
+  ],
+  "author": "Elertan (Dennis Kievits)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elertan/compose_filter/issues"
+  },
+  "homepage": "https://github.com/elertan/compose_filter#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
